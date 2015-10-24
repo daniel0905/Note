@@ -1,0 +1,6 @@
+- create project: django-admin startproject nameproject
+https://www.youtube.com/watch?v=2IvtbZwBq5I
+
+- create database:
+	+ python manage.py makemigrations polls
+	+ python manage.py migrate
